@@ -140,4 +140,4 @@ conditional statement :-
     } else {
         statement
     }
-
+LOOPS IN Javascript :- 
