@@ -141,3 +141,52 @@ conditional statement :-
         statement
     }
 LOOPS IN Javascript :- 
+
+-loops are used to execute a piece of code again and again.
+1. For loop :-
+ syntax - for (initialization,condition,updation){
+    statements
+ }
+
+ example ---
+ 
+  for(let i = 1; i <= 5 ; i++>){
+    console.log("web bocket")
+ }
+
+ output - 
+
+ web bocket
+ web bocket
+ web bocket
+ web bocket
+ web bocket
+
+
+2. While loop :-
+ syntax -
+ while(condition) {
+    statement
+    updation
+ }
+
+ 3. Do-while :-
+ syntax-
+ do{
+    statement
+    updation
+ } while (condition);
+
+ 4. For-of loop :-
+ -- It iterate an string and array
+  
+  5. for-in loop - 
+  -- iterate over objects(key-value pair)
+   syntax - 
+   for(let key in objvar){
+    statement
+   }
+
+   * home work*
+   1. print all even number from 0 to 100
+   2. crate a game you start with any random number. ask the user to keep guessing the game number untill the user enters correct value.
