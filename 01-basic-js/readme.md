@@ -190,3 +190,35 @@ LOOPS IN Javascript :-
    * home work*
    1. print all even number from 0 to 100
    2. crate a game you start with any random number. ask the user to keep guessing the game number untill the user enters correct value.
+
+   String in JS :-
+
+-String is a sequence of characters used to represent text.
+
+-create a string -> let str = "web bocket
+
+-string length -> str.length
+
+-string indexing -> str[0], str[1], str[2]....
+
+Template literals in JS :-
+- a way to have embeded expression in string.
+- it denoted on `` , i.e `today is a great day`
+
+String Interpolation :-
+- to create strings by doing substitution of placeholders.
+ex -> `string text${expression} string text`
+
+escape symbol :-
+\n - new line
+\t - tab inside the test
+
+String Methods :--
+-these are built in functions to manipulate a string.
+1. str.toUppercase()
+2. str.toLowercase()
+3. str.trim()
+4. str.slice(start, end)
+5. str1.concat(str2)
+6. str.replace(searchVal , newVal)
+7. str.chatAt(idx)
